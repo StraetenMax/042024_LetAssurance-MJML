@@ -70,7 +70,7 @@
         <mj-section background-color="#EDF2F7" padding="0px 32px" css-class="M_paddingHead">
             <mj-column css-class="M_paddingReset">
                 <mj-text padding="2px 0" align="left" font-size="16px" font-weight="300" color="#2D3748"> 
-                    <span style="font-weight:700;text-transform:uppercase">News Ecosup Assurance</span> | Mars 2024
+                    <span style="font-weight:700;text-transform:uppercase">News Ecosup Assurance</span> | Avril 2024
                 </mj-text>
             </mj-column>
         </mj-section>
@@ -88,10 +88,10 @@
                     Dossier
                 </mj-text>
                 <mj-text padding="0" font-size="28px" font-weight="700" color="#684092">
-                    L'Alternance
+                    L'Alternance :
                 </mj-text>
                 <mj-text padding="0 0 4px 0" font-size="28px" font-weight="700" color="#684092">
-                    en France en 2024
+                    un modèle éducatif qui a le vent en poupe
                 </mj-text>
                 <mj-text padding="0" font-size="16px" font-weight="500" line-height="18px">
                     Voici plusieurs années que la France fournit un effort considérable sur la formation des jeunes en alternance et en apprentissage. Cette méthode de formation, qui souffrait parfois d'une mauvaise image, a bénéficié d'une prise de conscience et de nombreuses évolutions ces dernières années. Les mesures prises et les orientations ont permis un changement de mentalité tant auprès des étudiants que des entreprises. Mais qu'en est-il vraiment ? Quel est le bilan de ces années d'investissement ?
@@ -108,7 +108,7 @@
                     Vous avez l'intention d'effectuer votre <strong style="color:#ffffff;">BTS Assurance ou Bachelor en alternance</strong> et vous <strong style="color:#ffffff;">recherchez une entreprise</strong>
                 </mj-text>
                 <mj-button padding="25px 0 15px 0" align="center" font-size="16px" background-color="#BA4995" color="#ffffff" href="https://forms.gle/2yn4ZToCPzDbxk46A" >
-                    Rejoignez-nous
+                    Contactez-nous
                 </mj-button>
             </mj-column>
         </mj-section>
@@ -252,17 +252,17 @@
 <!--footer-->
     <mj-section background-color="#ffffff" padding="20px 32px">
          <mj-column>
-            <mj-image width="220px" padding="0" align="center" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb27b4d0c8d6691c4e4e95.png" href="https://ecosup-campus.com" alt="Logo Ecosup Campus" />
-            <mj-text padding="0" /align="center" font-size="14px" font-weight="400" color="#2D3748">
+            <mj-image width="140px" padding="0" align="center" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb27b4d0c8d6691c4e4e95.png" href="https://ecosup-campus.com" alt="Logo Ecosup Campus" />
+            <mj-text padding="0" align="center" font-size="14px" font-weight="300" color="#2D3748">
                 17 rue Charles et Albert Roussel
             </mj-text>
-            <mj-text padding="2px 0px" align="center" font-size="14px" font-weight="400" color="#2D3748" text-transform="uppercase">
+            <mj-text padding="2px 0px" align="center" font-size="14px" font-weight="300" color="#2D3748" text-transform="uppercase">
                 59200 Tourcoing
             </mj-text>
-            <mj-text padding="2px 0px" align="center" font-size="14px" font-weight="700" color="#2D3748">
+            <mj-text padding="2px 0px" align="center" font-size="14px" font-weight="500" color="#2D3748">
                 Tél 03.20.70.06.06                
             </mj-text>
-            <mj-text padding="2px 0px 15px 0px" align="center" font-size="14px" font-weight="400" color="#2D3748">
+            <mj-text padding="2px 0px 15px 0px" align="center" font-size="14px" font-weight="300" color="#2D3748">
                 contact@ecosup-campus.fr
             </mj-text>
             <mj-text padding="0"align="center" font-size="11px" font-weight="400" color="#2D3748">
