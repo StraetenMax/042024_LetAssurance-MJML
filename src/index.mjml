@@ -1,0 +1,277 @@
+<mjml>
+<!--Head-->
+<mj-head>
+    <mj-attributes>
+        <mj-text font-size="16px" color="#2D3748"/>
+        <mj-class name="D_section" background-color="#ffffff" padding="20px 32px" />
+        <mj-all font-family="Arial, Helvetica, sans-serif"/>
+    </mj-attributes>
+    <mj-title>Lettre de l'école de l'Assurance</mj-title>
+    <mj-breakpoint width="480px" />
+    <mj-style>
+        @media all and (max-width: 480px) {
+        .M_padding td{ 
+            padding-left: 32px !important;
+            padding-right: 32px !important;
+          }
+        .M_paddingHead td{
+            padding-left: 10px !important;
+            padding-right: 10px !important;
+          }
+        .M_paddingReset td{
+            padding-left: 0px !important;
+            padding-right: 0px !important;
+          }
+        .M_paddingRS td{
+            padding-bottom: 10px !important;
+            padding-right: 10px !important;
+            }
+        .M_paddingButton td{
+            padding-top: 20px;
+        }
+        }
+    </mj-style>
+</mj-head>
+<!--Body-->
+    <mj-body background-color="#fcfcfc">
+<!--lettre Mirroir-->
+        <mj-section background-color="#ffffff" padding="20px 32px 4px 32px" >
+            <mj-column >
+            <mj-text padding="0" align="center" font-size="11px" font-weight="400" color="#2D3748">
+                si vous n'arrivez pas à lire cet email, cliquez <a style="color:#BA4995;text-decoration:none;font-weight:600" href="{{ mirror}}">ici</a>
+            </mj-text>
+            </mj-column>
+        </mj-section>
+<!--banniere Logo-->
+        <mj-section background-color="#EDF2F7" padding="20px 32px 5px 32px" css-class="M_paddingHead">
+            <mj-group>     
+            <mj-column css-class="M_paddingReset">
+                <mj-image align="left" padding="0" width="256px" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb2771d0c8d6691c4e4e7c.png" href="https://ecosup-assurance.fr" alt="Logo Ecosup Assurance" />
+            </mj-column>
+            <mj-column css-class="M_paddingReset">
+                <mj-image align="right" padding="0" width="150px" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb277b6d8c909673de86c1.png" alt="Logo de la Newsletter" />  
+            </mj-column>
+            </mj-group>
+        </mj-section>
+<!--Reseaux sociaux-->       
+        <mj-section background-color="#EDF2F7" padding="0px 32px" css-class="M_paddingHead"> 
+            <mj-column css-class="M_paddingReset">
+            <mj-social css-class="M_paddingRS" align="right" padding="0 1px 0 0" icon-size="30px"  mode="horizontal">
+                <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/65e9a0e8e9b9c597806fa9e9.gif" href="https://facebook.com/EcosupCamp/" alt="icon Facebook">
+                </mj-social-element>
+                <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/65e9a0f123605bbe5926c9b7.gif" href="https://www.instagram.com/ecosup.campus/" alt="icon Instagram">
+                </mj-social-element>
+                <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/65e9a0f823605bbe5926c9b9.gif" href="https://linkedin.com/company/ecosup-campus" alt="icon Linkedin">     
+                </mj-social-element>
+            </mj-social>
+            </mj-column>
+        </mj-section>
+<!--Numéro Newsletter-->
+        <mj-section background-color="#EDF2F7" padding="0px 32px" css-class="M_paddingHead">
+            <mj-column css-class="M_paddingReset">
+                <mj-text padding="2px 0" align="left" font-size="16px" font-weight="300" color="#2D3748"> 
+                    <span style="font-weight:700;text-transform:uppercase">News Ecosup Assurance</span> | Mars 2024
+                </mj-text>
+            </mj-column>
+        </mj-section>
+<!--Hero-->
+    <!--Image-->
+        <mj-section background-color="#EDF2F7" padding="2px 0px">
+            <mj-column >
+                <mj-image padding="0" fluid-on-mobile="true" width="600px" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb278923605bbe5927240b.jpg" href="https://ecosup-assurance.fr/apprentissage-france-2024/" alt="l'alternance en France en 2024" />
+            </mj-column>
+        </mj-section>  
+    <!--Texte-->  
+        <mj-section background-color="#EDF2F7" padding="10px 60px 20px" css-class="M_padding" >
+            <mj-column css-class="M_paddingReset">     
+                <mj-text padding="5px 0 2px 0" font-size="14px" font-weight="700" text-transform="uppercase" color="#944694">
+                    Dossier
+                </mj-text>
+                <mj-text padding="0" font-size="28px" font-weight="700" color="#684092">
+                    L'Alternance
+                </mj-text>
+                <mj-text padding="0 0 4px 0" font-size="28px" font-weight="700" color="#684092">
+                    en France en 2024
+                </mj-text>
+                <mj-text padding="0" font-size="16px" font-weight="500" line-height="18px">
+                    Voici plusieurs années que la France fournit un effort considérable sur la formation des jeunes en alternance et en apprentissage. Cette méthode de formation, qui souffrait parfois d'une mauvaise image, a bénéficié d'une prise de conscience et de nombreuses évolutions ces dernières années. Les mesures prises et les orientations ont permis un changement de mentalité tant auprès des étudiants que des entreprises. Mais qu'en est-il vraiment ? Quel est le bilan de ces années d'investissement ?
+                </mj-text>
+                <mj-text align="right" font-weight="700">
+                <a href="https://ecosup-assurance.fr/apprentissage-france-2024/" style="color:#BA4995;text-decoration:none;">Lire la suite...</a>    
+                </mj-text>
+            </mj-column>        
+        </mj-section>
+<!--Bandeau Accroche-->
+        <mj-section background-color="#270938" padding="20px 60px 20px" css-class="M_padding">
+            <mj-column css-class="M_paddingReset">
+            <mj-text align="center" padding="0" font-size="28px" font-weight="500" color="#BA4995">
+                    Vous avez l'intention d'effectuer votre <strong style="color:#ffffff;">BTS Assurance ou Bachelor en alternance</strong> et vous <strong style="color:#ffffff;">recherchez une entreprise</strong>
+                </mj-text>
+                <mj-button padding="25px 0 15px 0" align="center" font-size="16px" background-color="#BA4995" color="#ffffff" href="https://forms.gle/2yn4ZToCPzDbxk46A" >
+                    Rejoignez-nous
+                </mj-button>
+            </mj-column>
+        </mj-section>
+<!--Article 1-->
+        <mj-section background-color="#ffffff" padding="20px 24px 10px 24px">
+            <mj-column padding="8px">
+                <mj-image padding="0" fluid-on-mobile="true" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb2798d0c8d6691c4e4e8b.jpg" href="https://ecosup-assurance.fr/lettre-recommandation-ptit-plus-parcoursup/" alt="Logo Parcoursup" />
+            </mj-column>
+            <mj-column padding="8px">
+                <mj-text padding="2px 0" align="left" font-size="14px" font-weight="700" color="#944694" line-height="16px" text-transform="uppercase">
+                    Actualités assurance 
+                </mj-text>
+                <mj-text padding="2px 0" align="left" font-size="20px" font-weight="700" color="#684092">
+                    La lettre de recommandation : le p'tit plus pour Parcoursup !
+                </mj-text>
+                <mj-text padding="2px 0" line-height="18px" font-weight="300">
+                    Parcoursup est une étape importante quand on cherche son école, une étape qu'il faut soigner : les étudiants le comprennent de plus en plus. Mais comment faire la différence ?
+                </mj-text>
+                <mj-text align="right" color="#BA4995" font-weight="700">
+                <a href="https://ecosup-assurance.fr/lettre-recommandation-ptit-plus-parcoursup/" style="color:#BA4995;text-decoration:none;">Lire la suite...</a>    
+                </mj-text>
+            </mj-column>
+        </mj-section>
+<!--Article 2-->
+    <mj-section background-color="#ffffff" padding="10px 24px 20px 24px">
+    <mj-column padding="8px">
+    <mj-image padding="0" fluid-on-mobile="true" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb27a3d0c8d6691c4e4e92.jpg" href="https://ecosup-assurance.fr/loi-hamon-resilier-facilement-possible/" alt="loi Hamon : résilier facilement c'est possible" />
+    </mj-column>
+    <mj-column padding="8px">
+    <mj-text padding="2px 0" align="left" font-size="14px" font-weight="700" color="#944694" line-height="16px" text-transform="uppercase" >
+        assurance de biens | france | particuliers 
+    </mj-text>
+    <mj-text padding="2px 0" align="left" font-size="20px" font-weight="700" color="#684092">
+        Loi Hamon : résilier facilement c'est possible !
+    </mj-text>
+    <mj-text padding="2px 0" line-height="18px" font-weight="300">
+        Entrée en vigueur le 1er janvier 2015 en France, la loi relative à la consommation offre au souscripteur le pouvoir de résilier son contrat d'assurance...
+    </mj-text> 
+    <mj-text align="right" color="#BA4995" font-weight="700">
+        <a href="https://ecosup-assurance.fr/loi-hamon-resilier-facilement-possible/" style="color:#BA4995;text-decoration:none;">Lire la suite...</a>    
+    </mj-text>      
+    </mj-column>
+    </mj-section>
+<!--Video-->
+    <mj-section background-color="#EDF2F7" padding="20px 24px">
+        <mj-column padding="8px">
+            <mj-text padding="0" font-size="44px" font-weight="700" color="#684092">
+                Découvrez
+            </mj-text>
+            <mj-text padding="0" font-size="43px" font-weight="700" color="#684092">
+                notre chaîne
+            </mj-text>
+            <mj-text padding="0" font-size="40px" font-weight="800" color="#c4302b">
+                Youtube
+            </mj-text>
+        </mj-column>
+        <mj-column padding="8px">  
+            <mj-image padding="0" fluid-on-mobile="true" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb27a923605bbe59272413.png" href="https://youtu.be/7Kj_Ic8KRQI?si=KltJAmddnDR-YEHR" alt="Video sur la présentation de l'Assurance en France"/>      
+        </mj-column>
+    </mj-section>
+<!--Agenda-->
+    <mj-section background-color="#ffffff" padding="20px 24px"> 
+    <mj-column width="536px">
+        <mj-text padding="0 0 10px 0" align="left" font-size="28px" font-weight="700" color="#684092" >
+            A vos Agendas
+        </mj-text>
+    </mj-column >
+<!--Date 1-->     
+    <mj-column width="33%" padding="8px">
+        <mj-text padding="15px 0 0 0" align="center" container-background-color="#2D3748" font-size="25px" font-weight="400" text-transform="uppercase" color="#ffffff">
+            Vendredi
+        </mj-text >
+        <mj-text padding="1px 0" align="center" container-background-color="#2D3748" font-size="72px" font-weight="600" text-transform="uppercase" color="#ffffff">
+            15
+        </mj-text>
+        <mj-text padding="0" align="center" container-background-color="#2D3748" font-size="36px" font-weight="600" text-transform="uppercase" color="#ffffff">
+            mars
+        </mj-text>
+        <mj-text padding="3px 0" align="center" container-background-color="#2D3748" font-size="20px" color="#ffffff">
+            Salon de l'Apprentissage
+        </mj-text>
+        <mj-text padding="3px 0" align="center" container-background-color="#2D3748" font-size="14px" color="#ffffff" text-transform="uppercase">   
+            l'étudiant
+        </mj-text>
+        <mj-text padding="15px 0" align="center" container-background-color="#2D3748" font-size="20px" color="#ffffff">
+            9h30 à 17h
+        </mj-text>
+        <mj-text padding="20px 0" align="center" container-background-color="#2D3748" color="#ffffff">
+            Lille Grand Palais
+        </mj-text>
+    </mj-column>
+<!--Date 2-->
+    <mj-column width="33%" padding="8px">
+        <mj-text padding="15px 0 0 0" align="center" container-background-color="#2D3748" font-size="25px" font-weight="400" text-transform="uppercase" color="#ffffff">
+            Samedi
+        </mj-text>
+        <mj-text padding="1px 0" align="center" container-background-color="#2D3748" font-size="72px" font-weight="600" text-transform="uppercase" color="#ffffff">
+            16
+        </mj-text>
+        <mj-text padding="0" align="center" container-background-color="#2D3748" font-size="36px" font-weight="600" text-transform="uppercase" color="#ffffff">
+            mars
+        </mj-text>
+        <mj-text padding="3px 0" align="center" container-background-color="#2D3748" font-size="20px" color="#ffffff">
+            Salon de l'Apprentissage
+        </mj-text>
+        <mj-text padding="3px 0" align="center" container-background-color="#2D3748" font-size="14px" color="#ffffff" text-transform="uppercase">   
+            l'étudiant
+        </mj-text>
+        <mj-text padding="15px 0" align="center" container-background-color="#2D3748" font-size="20px" color="#ffffff">
+            9h30 à 17h
+        </mj-text>
+        <mj-text padding="20px 0" align="center" container-background-color="#2D3748" color="#ffffff">
+            Lille Grand Palais
+        </mj-text>
+    </mj-column>
+<!--Date 3-->
+    <mj-column width="33%" padding="8px">
+        <mj-text padding="15px 0 0 0" align="center" container-background-color="#684092" font-size="25px" font-weight="400" text-transform="uppercase" color="#ffffff">
+            Samedi
+        </mj-text>
+        <mj-text padding="1px 0" align="center" container-background-color="#684092" font-size="72px" font-weight="600" text-transform="uppercase" color="#ffffff">
+            23
+        </mj-text>
+        <mj-text padding="0" align="center" container-background-color="#684092" font-size="36px" font-weight="600" text-transform="uppercase" color="#ffffff"> 
+            mars
+        </mj-text>
+        <mj-text padding="3px 0" align="center" container-background-color="#684092" font-size="20px" color="#ffffff">
+        Journée
+        </mj-text>
+        <mj-text padding="3px 0" align="center" container-background-color="#684092" font-size="20px" color="#ffffff"> 
+            Portes Ouvertes
+        </mj-text>
+        <mj-text padding="15px 0" align="center" container-background-color="#684092" font-size="20px" color="#ffffff">
+            9h30 à 13h
+        </mj-text>
+        <mj-button padding="17px 0" align="center" background-color="#BA4995" container-background-color="#684092" color="#ffffff" href="https://forms.gle/FC9uWGMx78oidADS7">
+            s'inscrire
+        </mj-button>
+    </mj-column>
+    </mj-section>
+<!--footer-->
+    <mj-section background-color="#ffffff" padding="20px 32px">
+         <mj-column>
+            <mj-image width="220px" padding="0" align="center" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb27b4d0c8d6691c4e4e95.png" href="https://ecosup-campus.com" alt="Logo Ecosup Campus" />
+            <mj-text padding="0" /align="center" font-size="14px" font-weight="400" color="#2D3748">
+                17 rue Charles et Albert Roussel
+            </mj-text>
+            <mj-text padding="2px 0px" align="center" font-size="14px" font-weight="400" color="#2D3748" text-transform="uppercase">
+                59200 Tourcoing
+            </mj-text>
+            <mj-text padding="2px 0px" align="center" font-size="14px" font-weight="700" color="#2D3748">
+                Tél 03.20.70.06.06                
+            </mj-text>
+            <mj-text padding="2px 0px 15px 0px" align="center" font-size="14px" font-weight="400" color="#2D3748">
+                contact@ecosup-campus.fr
+            </mj-text>
+            <mj-text padding="0"align="center" font-size="11px" font-weight="400" color="#2D3748">
+                Pour être sûr(e) de recevoir nos communications, ajoutez contact@ecosup-campus.fr dans votre carnet d'adresses.
+            </mj-text>
+            <mj-text padding="0" align="center" font-size="11px" font-weight="400" color="#2D3748">
+                Pour vous désinscrire de nos communications par courriel, cliquez <a style="color:#BA4995;text-decoration:none;font-weight:600" href="{{ unsubscribe}}">ici</a>.
+            </mj-text>
+        </mj-column>
+    </mj-section>
+    </mj-body>
+</mjml>
