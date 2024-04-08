@@ -75,8 +75,19 @@
             </mj-column>
         </mj-section>
 <!--Hero-->
+<!--Bandeau Accroche-->
+        <mj-section background-color="#270938" padding="20px 60px 20px" css-class="M_padding">
+            <mj-column css-class="M_paddingReset">
+            <mj-text align="center" padding="0" font-size="28px" font-weight="500" color="#BA4995">
+                    Vous avez l'intention d'effectuer votre <strong style="color:#ffffff;">BTS Assurance ou Bachelor en alternance</strong> et vous <strong style="color:#ffffff;">recherchez une entreprise</strong>
+                </mj-text>
+                <mj-button padding="25px 0 15px 0" align="center" font-size="16px" background-color="#BA4995" color="#ffffff" href="https://forms.gle/2yn4ZToCPzDbxk46A" >
+                    Contactez-nous
+                </mj-button>
+            </mj-column>
+        </mj-section>
     <!--Image-->
-        <mj-section background-color="#EDF2F7" padding="2px 0px">
+        <mj-section background-color="#EDF2F7" padding="0px">
             <mj-column >
                 <mj-image padding="0" fluid-on-mobile="true" width="600px" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb278923605bbe5927240b.jpg" href="https://ecosup-assurance.fr/apprentissage-france-2024/" alt="l'alternance en France en 2024" />
             </mj-column>
@@ -113,17 +124,6 @@
                 </mj-text>
             </mj-column>        
         </mj-section>
-<!--Bandeau Accroche-->
-        <mj-section background-color="#270938" padding="20px 60px 20px" css-class="M_padding">
-            <mj-column css-class="M_paddingReset">
-            <mj-text align="center" padding="0" font-size="28px" font-weight="500" color="#BA4995">
-                    Vous avez l'intention d'effectuer votre <strong style="color:#ffffff;">BTS Assurance ou Bachelor en alternance</strong> et vous <strong style="color:#ffffff;">recherchez une entreprise</strong>
-                </mj-text>
-                <mj-button padding="25px 0 15px 0" align="center" font-size="16px" background-color="#BA4995" color="#ffffff" href="https://forms.gle/2yn4ZToCPzDbxk46A" >
-                    Contactez-nous
-                </mj-button>
-            </mj-column>
-        </mj-section>
 <!--Article 1-->
         <mj-section background-color="#ffffff" padding="20px 24px 10px 24px">
             <mj-column padding="8px">
@@ -131,13 +131,13 @@
             </mj-column>
             <mj-column padding="8px">
                 <mj-text padding="2px 0" align="left" font-size="14px" font-weight="700" color="#944694" line-height="16px" text-transform="uppercase">
-                    Actualités assurance 
+                    Actualités assurance | France
                 </mj-text>
                 <mj-text padding="2px 0" align="left" font-size="20px" font-weight="700" color="#684092">
-                    La lettre de recommandation : le p'tit plus pour Parcoursup !
+                    Décrocher un contrat d'alternance : 3 étapes clés pour réussir
                 </mj-text>
-                <mj-text padding="2px 0" line-height="18px" font-weight="300">
-                    Parcoursup est une étape importante quand on cherche son école, une étape qu'il faut soigner : les étudiants le comprennent de plus en plus. Mais comment faire la différence ?
+                <mj-text padding="2px 0" line-height="20px" font-weight="300">
+                    Avant de vous lancer dans la recherche d'un contrat d'alternance, il est essentiel de définir vos objectifs professionnels. Quel secteur vous attire ?
                 </mj-text>
                 <mj-text align="right" color="#BA4995" font-weight="700">
                 <a href="https://ecosup-assurance.fr/lettre-recommandation-ptit-plus-parcoursup/" style="color:#BA4995;text-decoration:none;">Lire la suite...</a>    
