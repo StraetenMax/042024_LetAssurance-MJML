@@ -93,8 +93,20 @@
                 <mj-text padding="0 0 4px 0" font-size="28px" font-weight="700" color="#684092">
                     un modèle éducatif qui a le vent en poupe
                 </mj-text>
-                <mj-text padding="0" font-size="16px" font-weight="500" line-height="18px">
-                    Voici plusieurs années que la France fournit un effort considérable sur la formation des jeunes en alternance et en apprentissage. Cette méthode de formation, qui souffrait parfois d'une mauvaise image, a bénéficié d'une prise de conscience et de nombreuses évolutions ces dernières années. Les mesures prises et les orientations ont permis un changement de mentalité tant auprès des étudiants que des entreprises. Mais qu'en est-il vraiment ? Quel est le bilan de ces années d'investissement ?
+                <mj-text padding="0" font-size="16px" font-weight="700" line-height="20px">
+                   L'alternance : un tremplin vers l'insertion professionnelle 
+                </mj-text>
+                <mj-text padding="0" font-size="16px" font-weight="500" line-height="20px">
+                    L'alternance, mode de formation combinant un cursus académique et une expérience professionnelle rémunérée, séduit de plus en plus d'étudiants. Décryptage en trois points de ses atouts et des démarches à suivre pour s'engager dans cette voie prometteuse.
+                </mj-text>
+                <mj-text padding="0" font-size="16px" font-weight="700" line-height="20px">
+                    1. Pédagogie innovante et professionnalisante
+                </mj-text>
+                <mj-text padding="0" font-size="16px" font-weight="700" line-height="20px">
+                    2. Deux contrats pour des objectifs distincts
+                </mj-text>
+                <mj-text padding="0" font-size="16px" font-weight="700" line-height="20px">
+                    3. Démarches et recherche d'alternance
                 </mj-text>
                 <mj-text align="right" font-weight="700">
                 <a href="https://ecosup-assurance.fr/apprentissage-france-2024/" style="color:#BA4995;text-decoration:none;">Lire la suite...</a>    
