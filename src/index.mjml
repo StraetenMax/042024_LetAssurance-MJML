@@ -8,7 +8,7 @@
         <mj-all font-family="Arial, Helvetica, sans-serif"/>
     </mj-attributes>
     <mj-title>Lettre Ecosup Assurance - Étudiant Avril 2024 </mj-title>
-    <mj-breakpoint width="480px" />
+     <mj-breakpoint width="480px" />
     <mj-style>
         @media all and (max-width: 480px) {
         .M_padding td{ 
@@ -145,26 +145,6 @@
                 </mj-text>
             </mj-column>
         </mj-section>
-<!--Article 2-->
-    <!-- <mj-section background-color="#ffffff" padding="10px 24px 20px 24px">
-    <mj-column padding="8px">
-    <mj-image padding="0" fluid-on-mobile="true" src="https://img.mailinblue.com/3403292/images/content_library/original/65eb27a3d0c8d6691c4e4e92.jpg" href="https://ecosup-assurance.fr/loi-hamon-resilier-facilement-possible/" alt="loi Hamon : résilier facilement c'est possible" />
-    </mj-column>
-    <mj-column padding="8px">
-    <mj-text padding="2px 0" align="left" font-size="14px" font-weight="700" color="#944694" line-height="16px" text-transform="uppercase" >
-        assurance de biens | france | particuliers 
-    </mj-text>
-    <mj-text padding="2px 0" align="left" font-size="20px" font-weight="700" color="#684092">
-        Loi Hamon : résilier facilement c'est possible !
-    </mj-text>
-    <mj-text padding="2px 0" line-height="18px" font-weight="300">
-        Entrée en vigueur le 1er janvier 2015 en France, la loi relative à la consommation offre au souscripteur le pouvoir de résilier son contrat d'assurance...
-    </mj-text> 
-    <mj-text align="right" color="#BA4995" font-weight="700">
-        <a href="https://ecosup-assurance.fr/loi-hamon-resilier-facilement-possible/" style="color:#BA4995;text-decoration:none;">Lire la suite...</a>    
-    </mj-text>      
-    </mj-column>
-    </mj-section> -->
 <!--Video-->
     <mj-section background-color="#EDF2F7" padding="20px 24px">
         <mj-column padding="8px">
@@ -189,78 +169,16 @@
             A vos Agendas
         </mj-text>
     </mj-column >
-<!--Date 1-->     
-    <mj-column width="33%" padding="8px">
-        <mj-text padding="15px 0 0 0" align="center" container-background-color="#2D3748" font-size="25px" font-weight="400" text-transform="uppercase" color="#ffffff">
-            Vendredi
-        </mj-text >
-        <mj-text padding="1px 0" align="center" container-background-color="#2D3748" font-size="72px" font-weight="600" text-transform="uppercase" color="#ffffff">
-            15
-        </mj-text>
-        <mj-text padding="0" align="center" container-background-color="#2D3748" font-size="36px" font-weight="600" text-transform="uppercase" color="#ffffff">
-            mars
-        </mj-text>
-        <mj-text padding="3px 0" align="center" container-background-color="#2D3748" font-size="20px" color="#ffffff">
-            Salon de l'Apprentissage
-        </mj-text>
-        <mj-text padding="3px 0" align="center" container-background-color="#2D3748" font-size="14px" color="#ffffff" text-transform="uppercase">   
-            l'étudiant
-        </mj-text>
-        <mj-text padding="15px 0" align="center" container-background-color="#2D3748" font-size="20px" color="#ffffff">
-            9h30 à 17h
-        </mj-text>
-        <mj-text padding="20px 0" align="center" container-background-color="#2D3748" color="#ffffff">
-            Lille Grand Palais
-        </mj-text>
-    </mj-column>
+<!--Date 1--> 
+        <mj-group>     
+            <mj-column width="50%" padding="8px">
+            <mj-image padding="0" fluid-on-mobile="true" src="src/img/JPO13042024.jpg" width="232px" alt="" />
+            </mj-column>
 <!--Date 2-->
-    <mj-column width="33%" padding="8px">
-        <mj-text padding="15px 0 0 0" align="center" container-background-color="#2D3748" font-size="25px" font-weight="400" text-transform="uppercase" color="#ffffff">
-            Samedi
-        </mj-text>
-        <mj-text padding="1px 0" align="center" container-background-color="#2D3748" font-size="72px" font-weight="600" text-transform="uppercase" color="#ffffff">
-            16
-        </mj-text>
-        <mj-text padding="0" align="center" container-background-color="#2D3748" font-size="36px" font-weight="600" text-transform="uppercase" color="#ffffff">
-            mars
-        </mj-text>
-        <mj-text padding="3px 0" align="center" container-background-color="#2D3748" font-size="20px" color="#ffffff">
-            Salon de l'Apprentissage
-        </mj-text>
-        <mj-text padding="3px 0" align="center" container-background-color="#2D3748" font-size="14px" color="#ffffff" text-transform="uppercase">   
-            l'étudiant
-        </mj-text>
-        <mj-text padding="15px 0" align="center" container-background-color="#2D3748" font-size="20px" color="#ffffff">
-            9h30 à 17h
-        </mj-text>
-        <mj-text padding="20px 0" align="center" container-background-color="#2D3748" color="#ffffff">
-            Lille Grand Palais
-        </mj-text>
-    </mj-column>
-<!--Date 3-->
-    <mj-column width="33%" padding="8px">
-        <mj-text padding="15px 0 0 0" align="center" container-background-color="#684092" font-size="25px" font-weight="400" text-transform="uppercase" color="#ffffff">
-            Samedi
-        </mj-text>
-        <mj-text padding="1px 0" align="center" container-background-color="#684092" font-size="72px" font-weight="600" text-transform="uppercase" color="#ffffff">
-            23
-        </mj-text>
-        <mj-text padding="0" align="center" container-background-color="#684092" font-size="36px" font-weight="600" text-transform="uppercase" color="#ffffff"> 
-            mars
-        </mj-text>
-        <mj-text padding="3px 0" align="center" container-background-color="#684092" font-size="20px" color="#ffffff">
-        Journée
-        </mj-text>
-        <mj-text padding="3px 0" align="center" container-background-color="#684092" font-size="20px" color="#ffffff"> 
-            Portes Ouvertes
-        </mj-text>
-        <mj-text padding="15px 0" align="center" container-background-color="#684092" font-size="20px" color="#ffffff">
-            9h30 à 13h
-        </mj-text>
-        <mj-button padding="17px 0" align="center" background-color="#BA4995" container-background-color="#684092" color="#ffffff" href="https://forms.gle/FC9uWGMx78oidADS7">
-            s'inscrire
-        </mj-button>
-    </mj-column>
+            <mj-column width="50%" padding="8px">
+                <mj-image padding="0" fluid-on-mobile="true" src="src/img/JD25042024.jpg" width="232px" alt="" />
+            </mj-column>     
+        </mj-group>    
     </mj-section>
 <!--footer-->
     <mj-section background-color="#ffffff" padding="20px 32px">
