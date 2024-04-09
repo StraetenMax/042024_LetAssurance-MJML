@@ -58,7 +58,7 @@
         <mj-section background-color="#EDF2F7" padding="0px 32px" css-class="M_paddingHead"> 
             <mj-column css-class="M_paddingReset">
             <mj-social css-class="M_paddingRS" align="right" padding="0 1px 0 0" icon-size="30px"  mode="horizontal">
-                <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/65e9a0e8e9b9c597806fa9e9.gif" href="https://facebook.com/EcosupCamp/" alt="icon Facebook">
+                <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/65e9a0e8e9b9c597806fa9e9.gif" href="https://www.facebook.com/EcosupAssurance" alt="icon Facebook">
                 </mj-social-element>
                 <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/65e9a0f123605bbe5926c9b7.gif" href="https://www.instagram.com/ecosup.campus/" alt="icon Instagram">
                 </mj-social-element>
@@ -90,7 +90,7 @@
     <!--Image-->
         <mj-section background-color="#EDF2F7" padding="0px">
             <mj-column >
-                <mj-image padding="0" fluid-on-mobile="true" width="600px" src="src/img/Grand_042024.jpg" href="https://ecosup-assurance.fr/alternance-modele-educatif-vent-en-poupe/" alt="L'alternance un modèle éducatif" />
+                <mj-image padding="0" fluid-on-mobile="true" width="600px" src="https://img.mailinblue.com/3403292/images/content_library/original/6614d5fa1ccefdb35700fd47.jpg" href="https://ecosup-assurance.fr/alternance-modele-educatif-vent-en-poupe/" alt="L'alternance un modèle éducatif" />
             </mj-column>
         </mj-section>  
     <!--Texte-->  
@@ -159,7 +159,7 @@
             </mj-text>
         </mj-column>
         <mj-column padding="8px">  
-            <mj-image padding="0" fluid-on-mobile="true" src="src/img/Youtube_042024.jpg" href="https://youtu.be/BCOZz7vIFCE?si=B7XLGdr77S9EM1Bu" alt="Video sur les métiers de l'Assurance"/>      
+            <mj-image padding="0" fluid-on-mobile="true" src="https://img.mailinblue.com/3403292/images/content_library/original/6614d659d9a1bc2e47fcd48b.jpg" href="https://youtu.be/BCOZz7vIFCE?si=B7XLGdr77S9EM1Bu" alt="Video sur les métiers de l'Assurance"/>      
         </mj-column>
     </mj-section>
 <!--Agenda-->
@@ -172,11 +172,11 @@
 <!--Date 1--> 
         <mj-group width="100%">     
             <mj-column width="50%" padding="8px">
-            <mj-image padding="0" fluid-on-mobile="true" src="src/img/JPO13042024.jpg" alt="Affiche JPO 13/04/2024" />
+            <mj-image padding="0" fluid-on-mobile="true" src="https://img.mailinblue.com/3403292/images/content_library/original/6614d6751ccefdb35700fd52.jpg" alt="Affiche JPO 13/04/2024" />
             </mj-column>
 <!--Date 2-->
             <mj-column width="50%" padding="8px">
-                <mj-image padding="0" fluid-on-mobile="true" src="src/img/JD25042024.jpg" alt="Affiche JOB DATING 25/04/2024" />
+                <mj-image padding="0" fluid-on-mobile="true" src="https://img.mailinblue.com/3403292/images/content_library/original/6614d695d9a1bc2e47fcd495.jpg" alt="Affiche JOB DATING 25/04/2024" />
             </mj-column>
         </mj-group>    
     </mj-section>
