@@ -80,10 +80,10 @@
         <mj-section background-color="#270938" padding="20px 60px 20px" css-class="M_padding">
             <mj-column css-class="M_paddingReset">
             <mj-text align="center" padding="0" font-size="28px" font-weight="500" color="#BA4995">
-                    Vous avez l'intention d'effectuer votre <strong style="color:#ffffff;">BTS Assurance ou Bachelor en alternance</strong> et vous <strong style="color:#ffffff;">recherchez une entreprise</strong>
-                </mj-text>
-                <mj-button padding="25px 0 15px 0" align="center" font-size="16px" background-color="#BA4995" color="#ffffff" href="https://forms.gle/2yn4ZToCPzDbxk46A" >
-                    Contactez-nous
+                Vous recherchez une <strong style="color:#ffffff;">alternance</strong> pour votre BTS ou votre Bachelor dans le domaine de la Banque - Assurance :<strong style="color:#ffffff;"> Nous avons des postes pour vous !</strong>
+            </mj-text>
+                <mj-button padding="25px 0 15px 0" align="center" font-size="16px" background-color="#BA4995" color="#ffffff" href="https://assurance-ecosup.fr/postes-pourvoir" >
+                    Postulez
                 </mj-button>
             </mj-column>
         </mj-section>
@@ -143,6 +143,17 @@
                 <mj-text align="right" color="#BA4995" font-weight="700">
                 <a href="https://ecosup-assurance.fr/decrocher-contrat-alternance-3-etapes-cles-reussir/" style="color:#BA4995;text-decoration:none;">Lire la suite...</a>    
                 </mj-text>
+            </mj-column>
+        </mj-section>
+<!--Bandeau Accroche-->
+        <mj-section background-color="#270938" padding="20px 60px 20px" css-class="M_padding">
+            <mj-column css-class="M_paddingReset">
+            <mj-text align="center" padding="0" font-size="28px" font-weight="500" color="#BA4995">
+                    Vous avez l'intention d'effectuer votre <strong style="color:#ffffff;">BTS Assurance ou Bachelor en alternance</strong> et vous <strong style="color:#ffffff;">recherchez une entreprise</strong>
+                </mj-text>
+                <mj-button padding="25px 0 15px 0" align="center" font-size="16px" background-color="#BA4995" color="#ffffff" href="https://forms.gle/2yn4ZToCPzDbxk46A" >
+                    Contactez-nous
+                </mj-button>
             </mj-column>
         </mj-section>
 <!--Video-->
