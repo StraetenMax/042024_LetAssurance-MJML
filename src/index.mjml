@@ -172,7 +172,7 @@
 <!--Date 1--> 
         <mj-group width="100%">     
             <mj-column width="50%" padding="8px">
-            <mj-image padding="0" fluid-on-mobile="true" src="https://img.mailinblue.com/3403292/images/content_library/original/6614d6751ccefdb35700fd52.jpg" alt="Affiche JPO 13/04/2024" />
+            <mj-image padding="0" fluid-on-mobile="true" src="src/img/jpo25052024.jpg" alt="Affiche JPO 25/05/2024" />
             </mj-column>
 <!--Date 2-->
             <mj-column width="50%" padding="8px">
