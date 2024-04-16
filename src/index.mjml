@@ -82,7 +82,7 @@
             <mj-text align="center" padding="0" font-size="28px" font-weight="500" color="#BA4995">
                 Vous recherchez une <strong style="color:#ffffff;">alternance</strong> pour votre BTS ou votre Bachelor dans le domaine de la Banque - Assurance :<strong style="color:#ffffff;"> Nous avons des postes pour vous !</strong>
             </mj-text>
-                <mj-button padding="25px 0 15px 0" align="center" font-size="16px" background-color="#BA4995" color="#ffffff" href="https://assurance-ecosup.fr/postes-pourvoir" >
+                <mj-button padding="25px 0 15px 0" align="center" font-size="16px" background-color="#BA4995" color="#ffffff" href="https://ecosup-assurance.fr/postes-a-pourvoir" >
                     Postulez
                 </mj-button>
             </mj-column>
@@ -183,7 +183,7 @@
 <!--Date 1--> 
         <mj-group width="100%">     
             <mj-column width="50%" padding="8px">
-            <mj-image padding="0" fluid-on-mobile="true" src="src/img/jpo25052024.jpg" alt="Affiche JPO 25/05/2024" />
+            <mj-image padding="0" fluid-on-mobile="true" src="https://img.mailinblue.com/3403292/images/content_library/original/661cc2cf96f50ec645ff3db9.jpg" alt="Affiche JPO 25/05/2024" />
             </mj-column>
 <!--Date 2-->
             <mj-column width="50%" padding="8px">
